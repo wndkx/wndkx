@@ -1,6 +1,12 @@
 # Who am I?
-I am python developer. I just develop for myself. I open my github account at 2021-2022. My first repository was pythonlibautoinstaller. From that time I loved coding. So I am now doing 2 projects. Ra1nC0t and RetroBrowsing
-# RetroBrowsing
-This is browser based on python and can use webengines. So, its using webview and have an html G.U.I
-# My official web site
+I am a Python, objective c and Swift developer. I develop for myself. I opened my GitHub account in 2021-2022. My first repository was pythonlibautoinstaller. From that time I loved coding.
+# [RetroBrowsing](https://github.com/z3ven/RetroBrowsing)
+This is a browser based on Python and can use web engines. So, it's using webview and has an HTML G.U.I
+# [CordRPC](https://github.com/z3ven/CordRPC)
+CordRPC - is a utility to create a cool menu in your discord profile.
+# [iAlgoAz](https://github.com/z3ven/iAlgoAz)
+iAlgoAz - mobile client for [learn.algoritmika.az](https://learn.algoritmika.az)
+# [iCloudBypasser](https://github.com/z3ven/icloud_bypasser/)
+iCloudBypasser - its a utility to bypass icloud.
+# My official website
 [clickhere](https://z3ven.github.io)
