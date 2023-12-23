@@ -1,6 +1,7 @@
 # Who am I?
 I am a Python, objective c, Rust and Swift developer. I develop for myself. I opened my GitHub account in 2021-2022. My first repository was pythonlibautoinstaller. From that time I loved coding.
-# [RetroBrowsing](https://github.com/z3ven/RetroBrowsing)
+# [GXNitroGen](https://github.com/z3ven/GXNitroGen)
+Generate free discord nitro using OperaGX giveaway# [RetroBrowsing](https://github.com/z3ven/RetroBrowsing)
 This is a browser based on Python and can use web engines. So, it's using webview and has an HTML G.U.I
 # [CordRPC](https://github.com/z3ven/CordRPC)
 CordRPC - is a utility to create a cool menu in your discord profile.
