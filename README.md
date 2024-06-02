@@ -1,5 +1,5 @@
 # Who am I?
-I am a Python, objective c, Rust and Swift developer. I develop for myself. I opened my GitHub account in 2021-2022. My first repository was pythonlibautoinstaller. From that time I loved coding.
+I am a Python, JS, C++ and Swift developer. I develop for myself. I opened my GitHub account in 2021-2022. My first repository was pythonlibautoinstaller. From that time I loved coding.
 # [GXNitroGen](https://github.com/z3ven/GXNitroGen)
 Generate free discord nitro using OperaGX giveaway
 # [RetroBrowsing](https://github.com/z3ven/RetroBrowsing)
